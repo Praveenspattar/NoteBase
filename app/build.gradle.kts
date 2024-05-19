@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.myapps.notebase"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.myapps.notebase"
